@@ -142,7 +142,7 @@
     <value>Automatically exit when all conversions are complete</value>
   </data>
   <data name="ClampToLowestPowerOfTwoSize" xml:space="preserve">
-    <value>Clamp to lowest power of 2 size</value>
+    <value>Scale image with longest side set to nearest smaller power-of-two.</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>Close</value>
