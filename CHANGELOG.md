@@ -9,6 +9,7 @@
 - New: Hungarian translation (thanks to Zyvrec7 and stohlferenc).
 - New: Polish translation (thanks to Maerek and MrPrince419).
 - New: Swedish translation (thanks to rkalitta).
+- Fixes: Issue where progress bar was not updated with ffmpeg conversions (issue #525, #603, #589, #680).
 - Fixes: Issue where wrong preset may be used when trying to convert more than 16 files (issue #614 and #567) (thanks to  cypress-exe)
 - Fixes: Various English grammar corrections and improvements (thanks to One-Hoopy-Frood).
 - Fixes: Traditional Chinese translation issues (thanks to NeKoOuO).
