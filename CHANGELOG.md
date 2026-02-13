@@ -1,5 +1,17 @@
 # Change Log
 
+## Next Version
+
+- New: Support new image input and output format: avif (github issue #619) (thanks to Techpotato1).
+- New: Indonesian translation (thanks to itsmefdil).
+- New: Urdu translation (thanks to hamzaharoon1314).
+- New: Hungarian translation (thanks to Zyvrec7).
+- New: Polish translation (thanks to Maerek and MrPrince419).
+- New: Swedish translation (thanks to rkalitta).
+- Fixes: Various English grammar corrections and improvements (thanks to One-Hoopy-Frood).
+- Fixes: Traditional Chinese translation issues (thanks to NeKoOuO).
+- Fixes: Vietnamese translation issues (thanks to thaovd).
+
 ## Version 2.1
 
 - New: Option to use NVidia hardware acceleration for mp4 video (thanks to tacheometry).
