@@ -1,6 +1,6 @@
 # Change Log
 
-## Next Version
+## Version 2.2
 
 - New: AMD AMF hardware acceleration option for MP4/MKV H.264 conversions (thanks to bharatvansh).
 - New: Support new image input and output format: avif (github issue #619) (thanks to Techpotato1).
