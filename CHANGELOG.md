@@ -13,6 +13,8 @@
 - Fixes: Various English grammar corrections and improvements (thanks to One-Hoopy-Frood).
 - Fixes: Traditional Chinese translation issues (thanks to NeKoOuO).
 - Fixes: Vietnamese translation issues (thanks to thaovd).
+- Tech: Update ffmpeg to v8.0.1 and ImageMagick to v14.10.
+- Tech: Remove deprecated dependency (Office). Replace it with NetOffice.
 
 ## Version 2.1
 
